@@ -8,3 +8,11 @@
 
 ## Cards
 ![Screenshot 2024-02-14 225515](https://github.com/Aaron-k12/BookStore-clone/assets/107159092/7cd5c90b-81cf-482d-993d-d03ec395cf31)
+
+## Utilizing Postman for API Testing
+
+![Screenshot 2024-02-14 230715](https://github.com/Aaron-k12/BookStore-clone/assets/107159092/5ae8234d-15ab-4c0c-915c-4f42a8eb57da)
+
+<p>Making GET Request</p>
+
+![Screenshot 2024-02-14 231112](https://github.com/Aaron-k12/BookStore-clone/assets/107159092/398d74e6-6d2d-445c-b94a-7d16b405643b)
